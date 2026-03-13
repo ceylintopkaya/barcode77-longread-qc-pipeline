@@ -1,0 +1,19 @@
+name: bioinfo-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - snakemake
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - nanoqc
+  - r-base=4.4
+  - r-ggplot2
+  - r-gridextra
+  - biopython
+  - openpyxl
+  - pip

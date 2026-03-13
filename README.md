@@ -126,7 +126,7 @@ Reports
 
 ## Summary Table
 
-![Summary table](results/barcode77/barcode77_summary_table.png)
+![Summary table]
 
 ---
 

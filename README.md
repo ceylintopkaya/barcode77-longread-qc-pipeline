@@ -101,7 +101,7 @@ Reports
 
 ## Python QC Plots 
 
-![Python QC plots](results/barcode77/barcode77_qc_plots_python.png)!![alt text](barcode77_qc_plots_python.png)
+![Python QC plots](results/barcode77/barcode77_qc_plots_python.png)
 | Plot | Description | Interpretation |
 |------|-------------|----------------|
 | Read Length Distribution | Histogram with log scale | Right-skewed distribution with long-read tail |

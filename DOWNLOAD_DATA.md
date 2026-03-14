@@ -1,6 +1,6 @@
 # 📥 Data Access and Setup
 
-Please follow the steps below to prepare the data for analysis:
+**⚠️ Note:** Due to upload issues with GitHub, the dataset could not be included directly in this repository. Please follow the steps below to access and prepare the data for analysis.
 
 ### 1. Download the Data
 You can access all required files via the link below:

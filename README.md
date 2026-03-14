@@ -4,6 +4,8 @@
 ![snakemake](https://img.shields.io/badge/snakemake-8.0+-blue)
 ![python](https://img.shields.io/badge/python-3.12-blue)
 ![R](https://img.shields.io/badge/R-4.4.1-green)
+![conda](https://img.shields.io/badge/conda-24.0+-green)
+![nanoqc](https://img.shields.io/badge/NanoQC-long--read%20QC-orange)
 
 ---
 

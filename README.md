@@ -173,6 +173,8 @@ barcode77-pipeline/
 
 # Installation
 
+Download the FASTQ file from the Google Drive link (https://drive.google.com/drive/folders/1XJMNdBINgojbNKlKzYJNfrC3U-Noh2Dt) and place it in the root folder — the pipeline will automatically create the data/ directory when it runs.
+
 Open **Anaconda Prompt** 
 
 Navigate to the project folder:

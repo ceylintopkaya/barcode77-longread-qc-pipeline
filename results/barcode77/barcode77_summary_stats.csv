@@ -1,0 +1,13 @@
+Metric,Value
+Total_Reads,"81,011"
+Total_Yield_Mb,84.11
+Length_Mean_bp,1038.2
+Length_Median_bp,547.0
+N50_bp,1761
+Length_Max_bp,"686,155"
+GC_Mean_Pct,53.0
+Quality_Mean,17.9
+Q10_Above_Pct,77.8
+Q20_Above_Pct,41.2
+Q30_Above_Pct,8.8
+Coverage_X,16.8
